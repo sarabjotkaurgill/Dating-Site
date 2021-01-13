@@ -3,7 +3,7 @@
 Develop a dating website where user can register, login and find their ideal partner. User can view and modify their profile, favorite users list.
 
 
-# Project has:
+## Project has:
 
 * Register Page
 
